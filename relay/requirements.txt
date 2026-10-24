@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+sqlalchemy
+psycopg2-binary
+pydantic
+pytest
+httpx
+cryptography
